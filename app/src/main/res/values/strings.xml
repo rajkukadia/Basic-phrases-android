@@ -1,12 +1,11 @@
 <resources>
     <string name="app_name">BasicPhrases</string>
-    <string name="welcome">Welcome</string>
-    <string name="Hi">Hi</string>
-    <string name="please">please</string>
-    <string name="mynameis">my name is</string>
-    <string name="ilivein">i live in</string>
-    <string name="howareyou">how are you</string>
-    <string name="Hello">hello</string>
-    <string name="goodevening">good evening</string>
-    <string name="doyouspeakenglish">do you speak english</string>
+    <string name="thecheckplease">The check please</string>
+    <string name="please">Please</string>
+    <string name="thankyou">Thank you</string>
+    <string name="excuseme">Excuse me</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="goodbye">Good bye</string>
+    <string name="hello">Hello</string>
 </resources>
